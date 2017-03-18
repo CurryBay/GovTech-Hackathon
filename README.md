@@ -1,3 +1,10 @@
+# GovTech Hackathon Submission
+
+This repository was initally cloned off of the Microsoft Vision [Video Frame Analysis Sample][] and was modified for the [GovTech Techfest Hackathon][]. 
+
+[Video Frame Analysis Sample]:	https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis
+[GovTech Techfest Hackathon]:	https://ideas.ecitizen.sg/a/pages/techfest-2017-hackathon-overview
+
 # Video Frame Analysis Sample
 
 This sample contains a library, along with two applications, for analyzing video frames from a webcam in near-real-time using APIs from [Microsoft Cognitive Services][]. The library and applications are implemented in C#, and use the [OpenCvSharp][] package for webcam support. 
